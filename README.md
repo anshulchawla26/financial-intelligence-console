@@ -40,7 +40,7 @@ Ask questions like:
 ### 1. Clone and Set Up
 
 ```bash
-git clone https://github.com/Anhd7/qa-financial-console.git
+git clone https://github.com/anshulchawla26/financial-intelligence-console.git
 cd qa-financial-console
 
 # (Optional) create virtual environment
